@@ -48,7 +48,7 @@
                     android:text="LOGIN" />
 
                 <Button
-                    android:id="@+id/BTN_REGISTER"
+                    android:id="@+id/btn_registrar"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
